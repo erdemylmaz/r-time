@@ -5,7 +5,7 @@ const text = document.querySelector('.text');
 const waitingDate = new Date('June 14 2024');
 const waitingTime = waitingDate.getTime();
 
-const startDate = new Date('February 17 2023 09:00');
+const startDate = new Date('February 17 2024 09:00');
 const startTime = startDate.getTime();
 
 
