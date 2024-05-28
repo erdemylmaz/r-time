@@ -2,7 +2,7 @@ const outerDiv = document.querySelector('.outer-timer');
 const innerDiv = document.querySelector('.inner-timer');
 const text = document.querySelector('.text');
 
-const waitingDate = new Date('June 14 2024');
+const waitingDate = new Date('June 11 2024 13:00');
 const waitingTime = waitingDate.getTime();
 
 const startDate = new Date('February 17 2024 09:00');
